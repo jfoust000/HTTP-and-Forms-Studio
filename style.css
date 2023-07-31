@@ -8,8 +8,14 @@ body {
 
 form label {
 
-    font-weight:bold
+    font-weight:bold;
     
+}
+
+#q {
+
+    width: 500px;
+
 }
    
 .align-right input {
