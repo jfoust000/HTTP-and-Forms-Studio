@@ -9,12 +9,15 @@ body {
 form label {
 
     font-weight:bold;
-    
+    font-size: 18pt;
 }
 
 #q {
 
     width: 500px;
+    height: 30px;
+    font-size: 16pt;
+
 
 }
    
@@ -41,9 +44,11 @@ form label {
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 16px;
+    font-size: 24px;
     margin: 9px 2px;
     border-radius: 10px;
+    width: 100px;
+    cursor: pointer;
     
 }
 
@@ -56,9 +61,11 @@ form label {
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 16px;
+    font-size: 24px;
     margin: 9px 2px;
     border-radius: 10px;
+    width: 100px;
+    cursor: pointer;
     
 }
 
